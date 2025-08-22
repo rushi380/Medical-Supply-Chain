@@ -46,7 +46,8 @@ The Medical Supply Chain smart contract has significant potential for expansion 
 
 ## Contract Address
 
-**Testnet**: `[0xb720788a3e554b505c063a540cc73c75fc9f1e294309fa6bfb0c19a7811b5f3b]`
+**Devnet**: `[0xb720788a3e554b505c063a540cc73c75fc9f1e294309fa6bfb0c19a7811b5f3b]`
+<img width="1920" height="1020" alt="Screenshot 2025-08-22 113007" src="https://github.com/user-attachments/assets/088c6a34-8f77-4da8-b5e3-ecb880b60150" />
 
 *Note: Contract addresses will be updated upon deployment to the respective networks*
 
@@ -59,4 +60,3 @@ The Medical Supply Chain smart contract has significant potential for expansion 
 **Language**: Move
 
 **License**: MIT
-<img width="1920" height="1020" alt="Screenshot 2025-08-22 113007" src="https://github.com/user-attachments/assets/088c6a34-8f77-4da8-b5e3-ecb880b60150" />
